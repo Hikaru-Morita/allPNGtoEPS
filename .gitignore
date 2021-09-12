@@ -1,0 +1,3 @@
+# png eps 画像を無視
+*.png
+*.eps
